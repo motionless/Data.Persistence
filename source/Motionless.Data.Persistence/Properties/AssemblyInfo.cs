@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Financescout24.Data.Persistence")]
+[assembly: AssemblyTitle("Motionless.Data.Persistence")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Scout24 Services")]
-[assembly: AssemblyProduct("Financescout24.Data.Persistence")]
-[assembly: AssemblyCopyright("Copyright © Scout24 Services 2013")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("Motionless.Data.Persistence")]
+[assembly: AssemblyCopyright("Copyright © Motionless 2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
